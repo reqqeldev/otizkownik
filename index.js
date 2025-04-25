@@ -19,7 +19,7 @@ const client = new Client({
     ]
 });
 
-const TOKEN = 'MTM1OTU3NzEyNTMwNDI3MTA5MA.G8a40c.FQM9mHTGUZygvqQi0hOaU8vZyDlskqp5QR7JY8';
+const TOKEN = 'chciałbyś kurwa?';
 
 client.once('ready', () => {
     console.log(`Zalogowano jako ${client.user.tag}`);
